@@ -47,8 +47,8 @@ const styles = StyleSheet.create({
   },
   logo: {
     resizeMode: 'contain',
-    height: 110,
-    width: 130,
+    height: 100,
+    width: 150,
   },
   spinner: {
     marginTop: 10,
